@@ -1,0 +1,31 @@
+cnn_smote_SAME:
+Test f1 score : 0.9119066834247697 
+Test accuracy score : 0.9846976064315732 
+
+cnn_smote:
+Test f1 score : 0.9156010159914656 
+Test accuracy score : 0.9829618125342591 
+
+cnn_wo_drop:
+Test f1 score : 0.9064938318574308 
+Test accuracy score : 0.9820482367988306 
+
+cnn_withdrop:
+Test f1 score : 0.8905738223536691 
+Test accuracy score : 0.980038370180888
+
+cnn_gru_smote_drp:
+Test f1 score : 0.8879923240931147 
+Test accuracy score : 0.9773890005481455 
+
+cnn_gru_smote_drp_0.1:
+Test f1 score : 0.8868977275356842 
+Test accuracy score : 0.9771606066142883 
+
+cnn_gru2_smote:
+Test f1 score : 0.8750510973283403 
+Test accuracy score : 0.9748766672757172 
+
+cnn_gru_smote:
+Test f1 score : 0.8356413260287724 
+Test accuracy score : 0.9656038735611182 
